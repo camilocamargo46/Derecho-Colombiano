@@ -1,39 +1,41 @@
 # Constitución Politica
 
-## Preámbulo
-
+## Preámbulo, Principios constitucionales y el Bloque de constitucionalidad.
+---
+### preámbulo
 Exordio o prefacio (aquello que se dice antes de dar principio a lo que se trata de narrar) enunciado de principios, fines y valores (pautas interpretativas de la constitución) Todo ello dentro de un orden político, económico y social justo, que adicionalmente impulse la integración latinoamericana.
 
-Fines: 
-
-*  Fortalecer la unidad de la nación  
-*  Asegurar la vida, convivencia, trabajo, justicia, igualdad, conocimiento, libertad y la paz
-
-|    Principios    |   valores   |
-| ---------------- | ----------- | 
-| La vida          | Convivencia |
-| El Trabajo       | Justicia    |
-| La Igualdad      | Paz         |
-| La Libertad      |             |
-| La participación |             |
-
-Cuatro contenidos básicos sent C-479 / 1992:
+cuenta con 4 contenidos básicos sent C-479 / 1992:
 
 1. Fines del ordenamiento jurídico 
 1. Principios que inspiraron al constituyente para diseñar de una determinada manera la estructura fundamental del estado 
 1. Motivación política de toda normatividad
 1. Valores que aspira realizar y que trascienda la pura literalidad de sus artículos
 
+Fines: 
+
+*  Fortalecer la unidad de la nación  
+*  Asegurar la vida, convivencia, trabajo, justicia, igualdad, conocimiento, libertad y la paz
+
+|    Principios    |   Valores    |
+|------------------|--------------|
+| La vida          |La Convivencia|
+| El Trabajo       |La Justicia   |
+| La Igualdad      |La  Paz       |
+| La Libertad      |              |
+| La participación |              |
+
+
 Valor del preámbulo:
 
-Como una verdadera norma jurídica y aplicable en el ejercicio del control constitucional por varias razones:
+Como una verdadera norma jurídica aplicable en el ejercicio del control constitucional por varias razones:
 
 *	Fue tramitado y aprobado de la misma manera que el resto del articulado
 *	Porque la constitución es finalista y las normas están vinculadas con el valor normativo del preámbulo
 *	Porque asegura la supremacía de la constitución
 
-## Normas. (Principios, Reglas y Valores)
-
+### Normas. (Principios, Reglas y Valores)
+---
 La norma jurídica es un enunciado de carácter directivo, con 4 componentes:
 
 1.	Un titular 
